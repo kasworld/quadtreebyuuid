@@ -1,2 +1,2 @@
-# quadtreebyuuid
-2d space partitioning by uuidstring
+# quadtree
+quadtree space partition for int vector
